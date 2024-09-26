@@ -1,37 +1,24 @@
-# About Me
-
+# 💫 About Me:
 Hello! I'm Serhii Didenko, a beginner backend developer with a passion for Python and FastAPI. I'm continuously learning and expanding my skill set to become a proficient developer.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-## Skills
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serhii-didenko) 
 
-- **Programming Languages:** Python, HTML, CSS, JavaScript
-- **Frameworks & Tools:** FastAPI, Postman
-- **Operating Systems:** Linux (Debian-based distributions)
-- **CMS:** WordPress
-- **Server Configuration:** PHP websites
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=didenko-serhii&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=didenko-serhii&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=didenko-serhii&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## Contact
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=didenko-serhii&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-- **Email:** [srg.dd0@gmail.com](mailto:srg.dd0@gmail.com)
-- **LinkedIn:** [Serhii Didenko](https://www.linkedin.com/in/serhii-didenko/)
-
-## Projects
-
-Feel free to explore my repositories to see some of the projects I've been working on. I'm always open to feedback and collaboration!
-
-## Let's Connect
-
-If you have any questions or just want to connect, feel free to reach out via email or LinkedIn. I'm always excited to meet new people and learn from their experiences.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=didenko-serhii&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=didenko-serhii&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Thank you for visiting my profile!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
