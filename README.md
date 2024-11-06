@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Serhii Didenko, a beginner backend developer with a passion for Python and FastAPI. I'm continuously learning and expanding my skill set to become a proficient developer.
+Hello! I'm Serhii Didenko, a beginner FullStack developer with a passion for vue and Fastify. I'm continuously learning and expanding my skill set to become a proficient developer.
 
 
 ## 🌐 Socials:
